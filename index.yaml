@@ -2,8 +2,18 @@ apiVersion: v1
 entries:
   ischool:
   - apiVersion: v1
+    appVersion: 0.0.19
+    created: "2022-05-04T15:10:43.839705203Z"
+    description: A Helm chart for Kubernetes
+    digest: 5ab5fd97e2d8c3b13edc56144af85241786ace374e3d402ec0ac67766b2e4d3b
+    icon: https://raw.githubusercontent.com/cdfoundation/artwork/master/jenkinsx/icon/color/jenkinsx-icon-color.png
+    name: ischool
+    urls:
+    - ischool-0.0.19.tgz
+    version: 0.0.19
+  - apiVersion: v1
     appVersion: 0.0.18
-    created: "2022-05-04T12:16:04.375413137Z"
+    created: "2022-05-04T15:10:43.838953622Z"
     description: A Helm chart for Kubernetes
     digest: 8eca9c86126281e1e5fa9ffc64e04ed558638e20a964a4fd55fd52d7524f100b
     icon: https://raw.githubusercontent.com/cdfoundation/artwork/master/jenkinsx/icon/color/jenkinsx-icon-color.png
@@ -13,7 +23,7 @@ entries:
     version: 0.0.18
   - apiVersion: v1
     appVersion: 0.0.17
-    created: "2022-05-04T12:16:04.373831971Z"
+    created: "2022-05-04T15:10:43.838172388Z"
     description: A Helm chart for Kubernetes
     digest: 61cf730bb2b687e69d9056afeb417dc1a53ff1389944c6bc410cbded01d91bd7
     icon: https://raw.githubusercontent.com/cdfoundation/artwork/master/jenkinsx/icon/color/jenkinsx-icon-color.png
@@ -21,4 +31,4 @@ entries:
     urls:
     - ischool-0.0.17.tgz
     version: 0.0.17
-generated: "2022-05-04T12:16:04.371576387Z"
+generated: "2022-05-04T15:10:43.837134131Z"
