@@ -1,9 +1,20 @@
 apiVersion: v1
 entries:
+  ischool:
+  - apiVersion: v1
+    appVersion: 0.0.4
+    created: "2022-05-09T09:30:41.789336834Z"
+    description: A Helm chart for Kubernetes
+    digest: eab380f4075608a34e9fc2b3a1af3188989fecd76fb6fbae48cf1b972ba03d42
+    icon: https://raw.githubusercontent.com/cdfoundation/artwork/master/jenkinsx/icon/color/jenkinsx-icon-color.png
+    name: ischool
+    urls:
+    - ischool-0.0.4.tgz
+    version: 0.0.4
   php-test:
   - apiVersion: v1
     appVersion: 0.0.9
-    created: "2022-05-09T08:29:23.099987268Z"
+    created: "2022-05-09T09:30:41.793790697Z"
     description: A Helm chart for Kubernetes
     digest: 72e56f37b8c6b322a3d981d5934b90fa06d5532ca7ef1fac1a4ec5487bff9bb2
     icon: https://raw.githubusercontent.com/cdfoundation/artwork/master/jenkinsx/icon/color/jenkinsx-icon-color.png
@@ -13,7 +24,7 @@ entries:
     version: 0.0.9
   - apiVersion: v1
     appVersion: 0.0.8
-    created: "2022-05-09T08:29:23.098336332Z"
+    created: "2022-05-09T09:30:41.792608197Z"
     description: A Helm chart for Kubernetes
     digest: 2237beff0502953726a74ec58d575b8dcb440ca4d5134d4a2b4d0a954c8407cc
     icon: https://raw.githubusercontent.com/cdfoundation/artwork/master/jenkinsx/icon/color/jenkinsx-icon-color.png
@@ -23,7 +34,7 @@ entries:
     version: 0.0.8
   - apiVersion: v1
     appVersion: 0.0.3
-    created: "2022-05-09T08:29:23.096896795Z"
+    created: "2022-05-09T09:30:41.791490614Z"
     description: A Helm chart for Kubernetes
     digest: 829183a616e7a6ca1261cbe164897da63e255cf0ab990385b7842bc610673858
     icon: https://raw.githubusercontent.com/cdfoundation/artwork/master/jenkinsx/icon/color/jenkinsx-icon-color.png
@@ -33,7 +44,7 @@ entries:
     version: 0.0.3
   - apiVersion: v1
     appVersion: 0.0.2
-    created: "2022-05-09T08:29:23.096101799Z"
+    created: "2022-05-09T09:30:41.790468278Z"
     description: A Helm chart for Kubernetes
     digest: c07f8c47d8207aeb171b44f664f20eb77155c609304ec79d9da3d7d280cf500c
     icon: https://raw.githubusercontent.com/cdfoundation/artwork/master/jenkinsx/icon/color/jenkinsx-icon-color.png
@@ -41,4 +52,4 @@ entries:
     urls:
     - php-test-0.0.2.tgz
     version: 0.0.2
-generated: "2022-05-09T08:29:23.087518316Z"
+generated: "2022-05-09T09:30:41.787752748Z"
